@@ -1,4 +1,4 @@
-[Gastón][repo]’s dotfiles [![Build Status][ci badge]][ci link]
+[Gastón][repo]’s dotfiles ![Ubuntu](https://github.com/gastonfournier/dotfiles/workflows/Ubuntu/badge.svg) ![macOS](https://github.com/gastonfournier/dotfiles/workflows/macOS/badge.svg) 
 ==========================
 
 These are the base dotfiles that I start with when I set up a new
