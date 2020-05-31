@@ -109,7 +109,7 @@ such as the `Git` user credentials, e.g.:
 
 [user]
 
-    name = Cătălin Mariș
+    name = Gastón Fournier
     email = account@example.com
     signingkey = XXXXXXXX
 ```
